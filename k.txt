@@ -2,3 +2,4 @@
 color 2
 bruh moment
 start iexplore.exe
+j
