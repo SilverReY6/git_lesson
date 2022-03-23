@@ -1,0 +1,4 @@
+@echo off
+color 2
+start iexplore.exe
+it's just a prank, bro
